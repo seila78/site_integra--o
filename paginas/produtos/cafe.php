@@ -38,7 +38,7 @@
     <section class="obs">
         <details>
             <summary>O que é o Café Gourmet Arábica?</summary>
-            <p>O Café Gourmet Arábica é um produto de alta qualidade, composto por grãos 100% da espécie Coffea arabica, cultivados em altitudes elevadas. 
+            <p>O <strong>Café Gourmet Arábica</strong> é um produto de alta qualidade, composto por grãos 100% da espécie Coffea arabica, cultivados em altitudes elevadas. 
             Passa por uma seleção rigorosa e torra cuidadosa (geralmente média), resultando em uma bebida equilibrada, com sabores e aromas complexos, adocicados e baixa acidez.</p>
         </details>
     </section>
